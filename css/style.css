@@ -1,0 +1,159 @@
+body{
+	margin-left:10px auto;
+	max-height:none;
+	background-color:#141823;
+	}
+#contener{
+margin-left:10%;
+width:80%;
+margin-right:9%;
+background-color:#A0B5BA;
+}
+.head{float:left;
+margin-top:0px;
+height:60px;
+width:355px;
+border:1px solid;
+background-color:#69a74e;}
+.head h1{margin-top:0px;}
+ul {
+border:1px solid;
+width:60%;
+float:right;
+margin-top:0px;
+height:40px;
+padding-top:20px;
+background-color:white;
+display:block;
+text-align:right;
+color:#FFF;
+}
+ul li a{text-decoration:none;}
+
+ ul  li{
+display:inline;
+margin-right:10px;
+padding-left:10px;
+height:40px;
+}
+
+dl{float:left;
+margin-top:10px;
+margin-left:5px;
+}
+dl dd a{text-decoration:none;}
+
+dl dd a:hover{color:white;}
+
+span figure{
+border:1px solid;
+width:250px;
+background-color:white;
+height:270px;
+margin-top:0px;
+margin-left:5px;
+float:left;
+}
+span figure img{width:250px; height:200px;}
+
+span figure figcaption{width:80%;
+text-align:center;
+margin-top:5px;
+margin-left:5px;}
+
+.aside{width:30%;
+margin-left:10px;
+margin-top:0px;
+float:left;
+border:1px solid;
+padding-bottom:5px;
+background-color:white;}
+
+span  p,form{margin-left:5px;
+font-size:16px;}
+span p{text-align:center;
+margin-top:opx;}
+
+.aside form input{height:30px;
+margin-right:5px;
+float:right;
+margin-left:5px;}
+
+
+span h5{background-color:black;
+color:#fff;
+height:30px;
+padding:10px;
+font-size:16px;
+text-align:center;
+margin-top:0px;
+font-family:'Arial', sans-serif;
+}
+.right
+{float:left;
+margin-top:0px;
+margin-right:5px;
+border:1px solid;
+width:200px;}
+
+.right label{font-size:12px;
+float:left;
+width:50px;
+margin-right:10px;
+}
+.right input:second-child{float:right;}
+
+.right h6{font-size:16px;
+color:white;
+text-align:center;
+background-color:black;
+margin-top:0px;
+height:40px;}
+
+.products{
+margin-bottom:15px;
+width:81%;
+height:350px;
+background-color:white;
+float:right;
+margin-right:10px;
+border-radius:4px 4px 4px 4px;
+box-shadow: 10px 10px 5px grey;}
+
+.aside1{width:50%;
+margin-left:10px;
+margin-top:0px;
+float:left;
+border:1px solid;
+padding-bottom:5px;
+background-color:white;}
+
+.products h2{background-color:black;
+text-align:center;
+margin-top:0px;
+color:white;}
+.products img{height:250px;
+width:200px;
+float:left;
+padding-left:20px;}
+
+.resum{
+color:black;
+margin-left:5px;
+width:150px;
+float:left;
+height:auto;
+font-size:16px;
+}
+.info{color:black;
+margin-left:10px;
+width:300px;
+float:left;
+height:auto;}
+
+footer{height:40px;
+margin-top:10px;
+background-color:white;
+width:100%;
+text-align:center;
+clear:both;}
